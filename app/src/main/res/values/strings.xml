@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Itime</string>
+    <string name="description">Description</string>
+    <string name="tital">Tital</string>
+    <string name="brithday_festival_exam">Brithday,festival,exam...</string>
+</resources>
